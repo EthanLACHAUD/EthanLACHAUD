@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EthanLACHAUD/EthanLACHAUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Je suis Ethan Lachaud un étudiant de 20 ans en première année de BUT Informatique à Limoges. J’ai un bac STIDD avec mention bien obtenu en 2019 dans le lycée George Cabanis où j’ai fais mon cursus STIDD. Suite a mon bac, je suis allé en classe préparatoire aux grandes écoles TSI durant 2 ans mais malheureusement je n’ai obtenu aucune école suite au concours.</p>
