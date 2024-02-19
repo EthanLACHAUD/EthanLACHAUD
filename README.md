@@ -51,14 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-###
-
-<p align="left"></p>
 
 ###
+<h2 align="left">I work on</h2>
 
 <div align="center">
-  <img src="[https://github.com/Ryder2710/jam.git](https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png)https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png" alt="Layout with last medium posts"  />
+  <img src="Escape Game Affiche.png" alt="Layout with last medium posts"  />
 </div>
 
 ###
