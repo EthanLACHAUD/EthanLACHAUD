@@ -1,47 +1,75 @@
-###
+# 👋 Hello, I'm Ethan Lachaud
 
-<h1 align="left">About me</h1>
+🎓 **Étudiant en Informatique** | 🌌 Passionné de science-fiction et d'astronomie | 🎮 Amoureux des jeux vidéo  
 
-<p>Je suis Ethan Lachaud un étudiant de 22 ans en troisième année de BUT Informatique à Limoges. J’ai un bac STIDD avec mention bien obtenu en 2020 dans le lycée George Cabanis où j’ai fais mon cursus. Après mon bac, je suis allé en classe préparatoire aux grandes écoles TSI durant 2 ans mais malheureusement je n’ai obtenu aucune école suite au concours.</p>
+---
 
+## 🚀 À propos de moi  
+Actuellement en 3ᵉ année de BUT Informatique, je suis un développeur polyvalent avec une forte passion pour la création d'applications innovantes. Avec une formation solide et des expériences professionnelles enrichissantes, je cherche constamment à améliorer mes compétences et à relever de nouveaux défis.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 💼 Compétences
 
-###
+### 🛠️ Hard Skills
+- **Développement Web** : PHP, Laravel, JavaScript, React  
+- **Développement Applicatif** : Python, Java, C++  
+- **Bases de données** :  
+  - SQL : MySQL, PostgreSQL  
+  - NoSQL : MongoDB  
+- **Virtualisation** : VirtualBox, Proxmox  
+- **Mobile** : Kotlin, MAUI  
+- **Tests** : JUnit  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+### 🌟 Soft Skills
+- Autonomie  
+- Adaptabilité  
+- Travail en équipe  
 
-###
+---
 
+## 🖥️ Outils
+- Visual Studio  
+- Git  
+- Chaînes CI/CD  
+
+---
+
+## 📚 Formations
+- **BUT Informatique (2022-2024)**  
+- **Formation Web Opquast (2024)** - Score : 675  
+- **Classe Préparatoire TSI (2020-2022)**  
+- **Baccalauréat STI2D (2020)**  
+
+---
+
+## 🔭 Projets
+### 🔑 Création d’un logiciel de prévisionnel  
+- Élaboration du cahier des charges  
+- Développement d'une application web collaborative  
+
+### 🎲 Jeu du verger  
+- Développé en Java et JavaFX  
+- Réalisation de tests unitaires  
+
+### 🕵️ Escape Game  
+- Méthodologie agile  
+- Application mobile et cahier des charges  
+
+---
+
+## 🌐 Langues
+- **Français** : Langue maternelle  
+- **Anglais** : Niveau B2  
+
+---
+
+## 📫 Contact
+- **Email** : ethan.lachaud@gmail.com  
+- **Téléphone** : +33 6 27 32 84 28  
+- **LinkedIn** : [Votre lien ici]  
+- **Portfolio** : [Votre lien ici]  
+
+---
+
+Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de collaborations ou de projets passionnants. ✨
