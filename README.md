@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="image_2024-02-19_102909290.png"  />
-</div>
-
 ###
 
 <h1 align="left">About me</h1>
 
-<p>Je suis Ethan Lachaud un étudiant de 20 ans en première année de BUT Informatique à Limoges. J’ai un bac STIDD avec mention bien obtenu en 2019 dans le lycée George Cabanis où j’ai fais mon cursus STIDD. Après mon bac, je suis allé en classe préparatoire aux grandes écoles TSI durant 2 ans mais malheureusement je n’ai obtenu aucune école suite au concours.</p>
+<p>Je suis Ethan Lachaud un étudiant de 22 ans en troisième année de BUT Informatique à Limoges. J’ai un bac STIDD avec mention bien obtenu en 2020 dans le lycée George Cabanis où j’ai fais mon cursus. Après mon bac, je suis allé en classe préparatoire aux grandes écoles TSI durant 2 ans mais malheureusement je n’ai obtenu aucune école suite au concours.</p>
 
 ###
 
@@ -50,13 +46,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
-
-###
-<h2 align="left">I work on</h2>
-
-<div align="center">
-  <img src="Escape Game Affiche.png" alt="Layout with last medium posts"  />
-</div>
-
-###
