@@ -12,26 +12,37 @@ Actuellement en 3ᵉ année de BUT Informatique, je suis un développeur polyval
 ## 💼 Compétences
 
 ### 🛠️ Hard Skills
-- **Développement Web** : PHP, Laravel, JavaScript, React  
-- **Développement Applicatif** : Python, Java, C++  
-- **Bases de données** :  
-  - SQL : MySQL, PostgreSQL  
-  - NoSQL : MongoDB  
-- **Virtualisation** : VirtualBox, Proxmox  
-- **Mobile** : Kotlin, MAUI  
-- **Tests** : JUnit  
 
-### 🌟 Soft Skills
-- Autonomie  
-- Adaptabilité  
-- Travail en équipe  
+#### Langages Web
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+
+#### Développement Applicatif
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+
+#### Bases de données
+**SQL**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+**NoSQL**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+#### Autres Outils
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)  
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI/CD-0066CC?logo=githubactions&logoColor=white)  
 
 ---
 
-## 🖥️ Outils
-- Visual Studio  
-- Git  
-- Chaînes CI/CD  
+## 🌟 Soft Skills
+- Autonomie  
+- Adaptabilité  
+- Travail en équipe  
 
 ---
 
