@@ -45,16 +45,3 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=EthanLACHAUD" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/EthanLACHAUD/EthanLACHAUD/output/snake.svg" alt="Snake animation" />
-
-###
