@@ -64,12 +64,4 @@ Actuellement en 3ᵉ année de BUT Informatique, je suis un développeur polyval
 
 ---
 
-## 📫 Contact
-- **Email** : ethan.lachaud@gmail.com  
-- **Téléphone** : +33 6 27 32 84 28  
-- **LinkedIn** : [Votre lien ici]  
-- **Portfolio** : [Votre lien ici]  
-
----
-
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de collaborations ou de projets passionnants. ✨
